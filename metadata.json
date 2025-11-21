@@ -1,0 +1,7 @@
+{
+  "name": "A Visu Sewer Story",
+  "description": "An interactive infrastructure presentation platform featuring Agent Lee and data visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
