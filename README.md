@@ -26,3 +26,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Rvs2l6EXQG1gvbcLRUaX4o
 
 When no local bundle is reachable, the app streams weights from Hugging Face automatically, so no API keys or `.env` secrets are required.
 # A-Visu-SEWER-STORY
+# visusewerstory
